@@ -1,0 +1,7 @@
+.rightArrow .leftCornerCard + img {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    height: 32px;
+    width: 32px;
+}
